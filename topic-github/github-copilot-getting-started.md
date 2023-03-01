@@ -1,5 +1,11 @@
 # Getting started with GitHub Copilot
 
+## Table of Contents
+
+- [What is GitHub Copilot?](#what-is-github-copilot)
+- [How to activate Github Copilot](#how-to-activate-github-copilot)
+- [How to integrate GitHub Copilot in VS Code](#how-to-integrate-github-copilot-in-vs-code)
+
 ## What is GitHub Copilot?
 
 ![github-copilot](https://user-images.githubusercontent.com/22279770/222196656-a6f057e2-4cb9-432f-a084-003cce2e3891.gif)
