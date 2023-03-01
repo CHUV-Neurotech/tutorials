@@ -1,4 +1,4 @@
-# Guide to obtain your Github Pro upgrade 
+# Guide to obtain your Github Team upgrade 
 
 Thanks to the GitHub Education program, all members of our team can benefit of the GitHub Team Subscription Plan for free.
 All you need is to apply to the program at https://education.github.com.
