@@ -2,6 +2,8 @@
 
 Repository of CHUV Neurotech team dedicated to tutorials created by the members.
 
+Please feel free to add your own topics and tutorials that everyone could benefit from :sparkles:
+
 ## Table of Contents
 
 ### Topic 1 - GitHub
