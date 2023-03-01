@@ -1,6 +1,6 @@
 # Tutorials for the CHUV Neurotech team
 
-Repository of CHUV Neurotech team dedicated to tutorials created by the members.
+Repository of the CHUV Neurotech team intented for hosting tutorials created by the members for the members.
 
 Please feel free to add your own topics and tutorials that everyone could benefit from :sparkles:
 
