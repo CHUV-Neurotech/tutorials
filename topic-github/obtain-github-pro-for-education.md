@@ -7,4 +7,4 @@ All you need is to apply to the program at https://education.github.com.
 
 Once validated, your account subscription will be automatically updated, which will give you access to more features of GitHub, such as Wiki, Pages, 3000 min CI/CD /month, and more (See https://github.com/pricing for more details).
 
-Note that this will also give you access to [GitHub Copilot](https://github.com/features/copilot) for free (See [GitHub Copilot: How To](./github-copilot-howto.md)).
+Note that this will also give you access to [GitHub Copilot](https://github.com/features/copilot) for free (See [GitHub Copilot: How To](./github-copilot-getting-started.md)).
